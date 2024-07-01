@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMyZAawmmxqb4RxS7QDs6Sskz1XoneN8c/QcAZmeccyY2JBpM/gSWUZ8ABXTnuED1exgd0skLvu2t+/NapWY4g==",
+  "success": true,
+  "projectFilePath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/lsotof-dev/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/lsotof-dev/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/lsotof-dev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

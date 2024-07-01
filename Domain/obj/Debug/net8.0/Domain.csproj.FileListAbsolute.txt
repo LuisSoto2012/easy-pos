@@ -1,0 +1,12 @@
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/bin/Debug/net8.0/Domain.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache

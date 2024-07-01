@@ -1,0 +1,15 @@
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/bin/Debug/net8.0/Application.deps.json
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/bin/Debug/net8.0/Application.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/bin/Debug/net8.0/Application.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/bin/Debug/net8.0/Domain.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/bin/Debug/net8.0/Domain.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/Application.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/Debug/net8.0/ref/Application.dll

@@ -1,0 +1,17 @@
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Application.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/bin/Debug/net8.0/Application.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
