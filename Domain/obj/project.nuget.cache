@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XlGYyJTzNtUdBsoRPYZRYAB/03C8sq1VvFPUbLsf5DAZL/y2icHenaVcZ4FmkgStdFhelDRsANSGrb09a2l0nw==",
+  "dgSpecHash": "qdouj8UJmMwfMhJcOLFBG5zNwk5Fce3yYRyaRE5CitytWilH38LJtcI/tiG0ekeBsAa0t0Gv/NbSna/ChG+gkA==",
   "success": true,
-  "projectFilePath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj",
+  "projectFilePath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/lsotof-dev/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
-    "/Users/lsotof-dev/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/lsotof-dev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/lsotofdev/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

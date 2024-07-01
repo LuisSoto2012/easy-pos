@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Application
-build_property.ProjectDir = /Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/
+build_property.ProjectDir = /Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

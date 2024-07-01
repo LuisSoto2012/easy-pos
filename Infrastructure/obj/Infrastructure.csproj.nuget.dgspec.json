@@ -1,37 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/Infrastructure.csproj": {}
+    "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/Application.csproj": {
+    "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/Application.csproj",
+        "projectUniqueName": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/Application.csproj",
-        "packagesPath": "/Users/lsotof-dev/.nuget/packages/",
-        "outputPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/obj/",
+        "projectPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/Application.csproj",
+        "packagesPath": "/Users/lsotofdev/.nuget/packages/",
+        "outputPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/lsotof-dev/.nuget/NuGet/NuGet.Config"
+          "/Users/lsotofdev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj": {
-                "projectPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj"
+              "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj": {
+                "projectPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj"
               }
             }
           }
@@ -40,20 +39,27 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             }
           },
           "imports": [
@@ -76,26 +82,25 @@
         }
       }
     },
-    "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj": {
+    "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj",
-        "packagesPath": "/Users/lsotof-dev/.nuget/packages/",
-        "outputPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/obj/",
+        "projectPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj",
+        "packagesPath": "/Users/lsotofdev/.nuget/packages/",
+        "outputPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/lsotof-dev/.nuget/NuGet/NuGet.Config"
+          "/Users/lsotofdev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -108,11 +113,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -144,37 +144,36 @@
         }
       }
     },
-    "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/Infrastructure.csproj": {
+    "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/Users/lsotof-dev/.nuget/packages/",
-        "outputPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/obj/",
+        "projectPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/lsotofdev/.nuget/packages/",
+        "outputPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/lsotof-dev/.nuget/NuGet/NuGet.Config"
+          "/Users/lsotofdev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/Application.csproj": {
-                "projectPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Application/Application.csproj"
+              "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/Application.csproj": {
+                "projectPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Application/Application.csproj"
               },
-              "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj": {
-                "projectPath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Domain/Domain.csproj"
+              "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj": {
+                "projectPath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Domain/Domain.csproj"
               }
             }
           }
@@ -183,11 +182,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {

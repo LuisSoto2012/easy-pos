@@ -1,12 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "xVXngn7ZzC2CDTOoSttYwyJX8FyergF5bftV1z2BlqnvmCeuliwKP1dCVnVC79GdMWkF2ocx4OoPNDRScwTQng==",
+  "dgSpecHash": "Z2Ay2nPFyZqRMYtTzRAOU4nDcON5eZFkDU/PXqqgQKq/PW7itKkz4FtVOVi8PGmyGoauVa3HY0yvNGGo4cVMeQ==",
   "success": true,
-  "projectFilePath": "/Users/lsotof-dev/Documents/Projects/NET8/EasyPOS/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/Users/lsotofdev/Documents/Projects/NET/easy-pos/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/lsotof-dev/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
-    "/Users/lsotof-dev/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/lsotof-dev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/lsotofdev/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.6/microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.6/microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/lsotofdev/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
